@@ -1,5 +1,5 @@
 {
-  "name": "default",
+  "name": "geekmeweb",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -14,5 +14,9 @@
     "@vue/cli-plugin-babel": "^3.8.0",
     "@vue/cli-service": "^3.8.0",
     "vue-template-compiler": "^2.6.10"
-  }
+  },
+  "description": "## Project setup ``` npm install ```",
+  "main": "babel.config.js",
+  "author": "jaeger",
+  "license": "ISC"
 }

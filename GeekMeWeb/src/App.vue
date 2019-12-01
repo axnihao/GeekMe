@@ -1,17 +1,17 @@
 <template>
   <div id="app">
     <img alt="GeekMelogo" src="./assets/logo.png">
-    <header msg="GeekMe start"/>
+    <Header msg="GeekMe start"/>
   </div>
 </template>
 
 <script>
-import header from './components/header.vue'
+import Header from './components/header.vue'
 
 export default {
   name: 'app',
   components: {
-    header
+    Header
   }
 }
 </script>
