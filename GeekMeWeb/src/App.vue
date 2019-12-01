@@ -1,12 +1,12 @@
 <template>
   <div id="app">
     <img alt="GeekMelogo" src="./assets/logo.png">
-    <HelloWorld msg="GeekMe start"/>
+    <header msg="GeekMe start"/>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/header.vue'
+import header from './components/header.vue'
 
 export default {
   name: 'app',
